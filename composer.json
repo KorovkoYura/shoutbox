@@ -1,0 +1,13 @@
+{
+    "name": "Yura/chat",
+    "require": {
+        "jamesmoss/flywheel": "^0.5.2",
+        "mpratt/relativetime": "^1.5"
+    },
+    "authors": [
+        {
+            "name": "KorovkoYura",
+            "email": "korovko.yura@gmail.com"
+        }
+    ]
+}
